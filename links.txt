@@ -8,6 +8,10 @@ GitKraken related links
 
 Links
 =====
+Downloads
+Has Linux deb and windows (64-bit)
+https://www.gitkraken.com/download
+
 GitKraken
 Legendary Git Client for Window, Mac & Linux
 https://www.gitkraken.com/
