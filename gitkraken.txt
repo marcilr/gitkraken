@@ -1,0 +1,12 @@
+gitkraken.txt
+Created Mon Oct 14 09:03:21 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+GitKraken revision control client for windows
+
+
+Links
+=====
+GitKraken
+https://www.gitkraken.com/
