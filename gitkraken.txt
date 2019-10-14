@@ -6,7 +6,11 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 GitKraken revision control client for windows
 
 
+Installed GitKraken v6.2.1 on windows 10 workstation
+
+
 Links
 =====
 GitKraken
+built by Axosoft in sunny Scottsdale , AZ
 https://www.gitkraken.com/
